@@ -14,7 +14,7 @@ export async function submitContactForm(prevState: any, formData: FormData) {
   if (!name || !email || !message) {
     return {
       success: false,
-      message: "Please fill in all fields",
+      message: "Please fill in all fields.",
     }
   }
 
