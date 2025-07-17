@@ -8,13 +8,13 @@ export const translations = {
     // Hero Section
     heroTagline: "Bring You Back to Your Life and Lifestyle",
     heroDescription:
-      "Lost in life's noise? Let Nhân guide you back to clarity through personalized coaching and meaningful connections.",
+      "Lost in life's noise? Let The Soul Nest guide you back to clarity through personalized coaching and meaningful connections.",
     bookFreeSession: "Book a Free Session",
     joinOurWorkshop: "Join Our Workshop",
 
     // Introduction
     introText:
-      "Nhân offers personalized 1:1 coaching, group sessions, and workshops—both online and in our designed spaces—to help you rediscover your path and reconnect with your best self.",
+      "The Soul Nest offers personalized 1:1 coaching, group sessions, and workshops—both online and in our designed spaces—to help you rediscover your path and reconnect with your best self.",
 
     // Services
     ourServices: "Our Services",
@@ -30,7 +30,7 @@ export const translations = {
     privateRoomRental: "Private Room Rental",
     privateRoomRentalDesc: "Professional spaces for freelance coaches to conduct their sessions",
     privateRoomRentalDetail:
-      "Nhân offers beautifully designed, private coaching rooms available for rent by freelance coaches. Our spaces provide a professional, quiet, and inspiring environment, fully equipped to support your client sessions. Focus on your coaching, and let us handle the perfect setting.", // New
+      "The Soul Nest offers beautifully designed, private coaching rooms available for rent by freelance coaches. Our spaces provide a professional, quiet, and inspiring environment, fully equipped to support your client sessions. Focus on your coaching, and let us handle the perfect setting.", // New
     eventSpace: "Event Space",
     eventSpaceDesc: "Workshops and community gatherings in thoughtfully designed environments",
     eventSpaceDetail:
@@ -65,11 +65,11 @@ export const translations = {
 
     // Testimonials
     whatClientsSay: "What Our Clients Say",
-    testimonialsDescription: "Hear from individuals who have transformed their lives with Nhân Coaching.",
+    testimonialsDescription: "Hear from individuals who have transformed their lives with The Soul Nest Coaching.",
     testimonial1Name: "Nguyen Thi Lan Anh",
     testimonial1Title: "Marketing Manager",
     testimonial1Quote:
-      "Nhân Coaching helped me find balance in my work and life. I feel clearer about my goals and motivated to act.",
+      "The Soul Nest Coaching helped me find balance in my work and life. I feel clearer about my goals and motivated to act.",
     testimonial2Name: "Tran Van Hung",
     testimonial2Title: "Startup Founder",
     testimonial2Quote:
@@ -77,23 +77,23 @@ export const translations = {
     testimonial3Name: "Le Thi Mai",
     testimonial3Title: "Student",
     testimonial3Quote:
-      "Nhân is not just a coaching place but also a warm community. I found support and inspiration to grow every day.",
+      "The Soul Nest is not just a coaching place but also a warm community. I found support and inspiration to grow every day.",
 
     // FAQ
     frequentlyAskedQuestions: "Frequently Asked Questions",
-    faqDescription: "Find answers to common questions about Nhân Coaching and our services.",
+    faqDescription: "Find answers to common questions about The Soul Nest Coaching and our services.",
     faq1Question: "What is coaching?",
     faq1Answer:
       "Coaching is a collaborative process between a coach and a client, helping the client explore their potential, set goals, and develop strategies to achieve them. Unlike therapy, coaching focuses on the future and action.",
     faq2Question: "How do I book a free consultation?",
     faq2Answer:
       "You can book a free consultation by filling out the contact form at the bottom of the page or by contacting us directly via email/phone. We will get back to you to arrange the first session.",
-    faq3Question: "Does Nhân Coaching offer online services?",
+    faq3Question: "Does The Soul Nest Coaching offer online services?",
     faq3Answer:
-      "Yes, Nhân Coaching provides both in-person coaching at our dedicated spaces and online coaching to offer maximum flexibility for clients.",
+      "Yes, The Soul Nest Coaching provides both in-person coaching at our dedicated spaces and online coaching to offer maximum flexibility for clients.",
     faq4Question: "Can I rent a private coaching room?",
     faq4Answer:
-      "Nhân Coaching offers private, quiet, and fully equipped coaching rooms for freelance coaches who need a professional space to work with their clients.",
+      "The Soul Nest Coaching offers private, quiet, and fully equipped coaching rooms for freelance coaches who need a professional space to work with their clients.",
 
     // Footer
     stayConnected: "Stay Connected",
@@ -120,13 +120,13 @@ export const translations = {
     // Hero Section
     heroTagline: "Đưa bạn trở lại với cuộc sống và phong cách sống của chính mình",
     heroDescription:
-      "Lạc lối giữa bộn bề cuộc sống? Hãy để Nhân dẫn lối bạn trở lại với sự rõ ràng thông qua các buổi huấn luyện cá nhân và những kết nối ý nghĩa.",
+      "Lạc lối giữa bộn bề cuộc sống? Hãy để Nhà Mình dẫn lối bạn trở lại với sự rõ ràng thông qua các buổi huấn luyện cá nhân và những kết nối ý nghĩa.",
     bookFreeSession: "Đặt lịch tư vấn miễn phí",
     joinOurWorkshop: "Tham gia Workshop của chúng tôi",
 
     // Introduction
     introText:
-      "Nhân cung cấp các buổi huấn luyện 1:1 cá nhân hóa, các buổi nhóm và workshop—cả trực tuyến và tại không gian được thiết kế của chúng tôi—để giúp bạn tái khám phá con đường của mình và kết nối lại với phiên bản tốt nhất của bản thân.",
+      "Nhà Mình cung cấp các buổi huấn luyện 1:1 cá nhân hóa, các buổi nhóm và workshop—cả trực tuyến và tại không gian được thiết kế của chúng tôi—để giúp bạn tái khám phá con đường của mình và kết nối lại với phiên bản tốt nhất của bản thân.",
 
     // Services
     ourServices: "Dịch vụ của chúng tôi",
@@ -143,7 +143,7 @@ export const translations = {
     privateRoomRental: "Cho thuê phòng riêng",
     privateRoomRentalDesc: "Không gian chuyên nghiệp cho các huấn luyện viên tự do thực hiện các buổi của họ",
     privateRoomRentalDetail:
-      "Nhân cung cấp các phòng huấn luyện riêng tư được thiết kế đẹp mắt, có sẵn cho các huấn luyện viên tự do thuê. Không gian của chúng tôi mang đến một môi trường chuyên nghiệp, yên tĩnh và đầy cảm hứng, được trang bị đầy đủ để hỗ trợ các buổi làm việc với khách hàng của bạn. Hãy tập trung vào việc huấn luyện của bạn, và để chúng tôi lo phần thiết lập hoàn hảo.", // New
+      "Nhà Mình cung cấp các phòng huấn luyện riêng tư được thiết kế đẹp mắt, có sẵn cho các huấn luyện viên tự do thuê. Không gian của chúng tôi mang đến một môi trường chuyên nghiệp, yên tĩnh và đầy cảm hứng, được trang bị đầy đủ để hỗ trợ các buổi làm việc với khách hàng của bạn. Hãy tập trung vào việc huấn luyện của bạn, và để chúng tôi lo phần thiết lập hoàn hảo.", // New
     eventSpace: "Không gian sự kiện",
     eventSpaceDesc: "Các buổi workshop và tụ họp cộng đồng trong môi trường được thiết kế chu đáo",
     eventSpaceDetail:
@@ -178,11 +178,11 @@ export const translations = {
 
     // Testimonials
     whatClientsSay: "Khách hàng của chúng tôi nói gì",
-    testimonialsDescription: "Lắng nghe những chia sẻ từ những cá nhân đã thay đổi cuộc sống với Nhân Coaching.",
+    testimonialsDescription: "Lắng nghe những chia sẻ từ những cá nhân đã thay đổi cuộc sống với Nhà Mình.",
     testimonial1Name: "Nguyễn Thị Lan Anh",
     testimonial1Title: "Quản lý Marketing",
     testimonial1Quote:
-      "Nhân Coaching đã giúp tôi tìm lại sự cân bằng trong công việc và cuộc sống. Tôi cảm thấy rõ ràng hơn về mục tiêu của mình và có động lực để hành động.",
+      "Nhà Mình đã giúp tôi tìm lại sự cân bằng trong công việc và cuộc sống. Tôi cảm thấy rõ ràng hơn về mục tiêu của mình và có động lực để hành động.",
     testimonial2Name: "Trần Văn Hùng",
     testimonial2Title: "Người sáng lập Startup",
     testimonial2Quote:
@@ -190,23 +190,23 @@ export const translations = {
     testimonial3Name: "Lê Thị Mai",
     testimonial3Title: "Sinh viên",
     testimonial3Quote:
-      "Nhân không chỉ là nơi khai vấn mà còn là một cộng đồng ấm áp. Tôi đã tìm thấy sự hỗ trợ và nguồn cảm hứng để phát triển bản thân mỗi ngày.",
+      "Nhà Mình không chỉ là nơi khai vấn mà còn là một cộng đồng ấm áp. Tôi đã tìm thấy sự hỗ trợ và nguồn cảm hứng để phát triển bản thân mỗi ngày.",
 
     // FAQ
     frequentlyAskedQuestions: "Các câu hỏi thường gặp",
-    faqDescription: "Tìm câu trả lời cho các câu hỏi phổ biến về Nhân Coaching và các dịch vụ của chúng tôi.",
+    faqDescription: "Tìm câu trả lời cho các câu hỏi phổ biến về Nhà Mình và các dịch vụ của chúng tôi.",
     faq1Question: "Khai vấn là gì?",
     faq1Answer:
       "Khai vấn là một quá trình hợp tác giữa coach và khách hàng, giúp khách hàng khám phá tiềm năng, đặt mục tiêu và phát triển các chiến lược để đạt được chúng. Khác với trị liệu, khai vấn tập trung vào tương lai và hành động.",
     faq2Question: "Làm thế nào để đặt lịch tư vấn miễn phí?",
     faq2Answer:
       "Bạn có thể đặt lịch tư vấn miễn phí bằng cách điền vào form liên hệ ở cuối trang hoặc liên hệ trực tiếp qua email/số điện thoại của chúng tôi. Chúng tôi sẽ liên hệ lại để sắp xếp buổi đầu tiên.",
-    faq3Question: "Nhân Coaching có cung cấp dịch vụ online không?",
+    faq3Question: "Nhà Mình có cung cấp dịch vụ online không?",
     faq3Answer:
-      "Có, Nhân Coaching cung cấp cả dịch vụ khai vấn trực tiếp tại không gian của chúng tôi và khai vấn online để mang lại sự linh hoạt tối đa cho khách hàng.",
+      "Có, Nhà Mình cung cấp cả dịch vụ khai vấn trực tiếp tại không gian của chúng tôi và khai vấn online để mang lại sự linh hoạt tối đa cho khách hàng.",
     faq4Question: "Tôi có thể thuê phòng khai vấn riêng không?",
     faq4Answer:
-      "Chắc chắn rồi! Nhân Coaching cung cấp dịch vụ cho thuê phòng khai vấn riêng biệt, yên tĩnh và đầy đủ tiện nghi cho các coach tự do muốn có không gian chuyên nghiệp để làm việc với khách hàng của họ.",
+      "Chắc chắn rồi! Nhà Mình cung cấp dịch vụ cho thuê phòng khai vấn riêng biệt, yên tĩnh và đầy đủ tiện nghi cho các coach tự do muốn có không gian chuyên nghiệp để làm việc với khách hàng của họ.",
 
     // Footer
     stayConnected: "Giữ liên lạc",

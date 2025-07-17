@@ -14,9 +14,9 @@ const halimun = localFont({
 })
 
 export const metadata: Metadata = {
-  title: "Nhân Coaching – Rediscover Your Path | Online/Offline Sessions",
+  title: "The Soul Nest Coaching – Rediscover Your Path | Online/Offline Sessions",
   description:
-    "Nhân offers personalized coaching services to help you rediscover your path and reconnect with your best self through 1:1 sessions, group coaching, and workshops.",
+    "The Soul Nest offers personalized coaching services to help you rediscover your path and reconnect with your best self through 1:1 sessions, group coaching, and workshops.",
     generator: 'v0.dev'
 }
 
